@@ -1,5 +1,0 @@
-rootProject.name = 'z8-template'
-
-if (properties.containsKey('z8Home'))
-	includeBuild(z8Home)
-
