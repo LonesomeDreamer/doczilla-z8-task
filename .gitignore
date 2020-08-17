@@ -2,8 +2,8 @@
 /.settings
 /.java
 /.gradle/
-/.project
 /target/
+/.project
 /.classpath
 *.cache
 *-sources.jar
