@@ -1,0 +1,29 @@
+/*
+ * Приложение Z8 Template не содержит никаких специальных определений стилей CSS
+ */
+ 
+ .air .fieldset div.control {
+ 	height: auto;
+ 	overflow-wrap: break-word;
+ 	word-break: break-word;
+ 	display: flex;
+ 	flex-direction: column;
+ }
+ 
+ .air .fieldset div.control * {
+ 	word-break:break-word;
+ }
+ 
+ .air .fieldset .row .col-lg-3 .file {
+ 	display: flex;
+ 	flex-direction: column;
+ 	margin-bottom: 75px;
+ }
+ 
+ .air .file audio {
+ 	position: absolute;
+ 	top: 40px;
+ 	left: 0px;
+ 	width: 100%;
+ }
+ 
