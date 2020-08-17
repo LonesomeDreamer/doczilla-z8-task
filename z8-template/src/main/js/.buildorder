@@ -1,9 +1,0 @@
-application/Application.js
-application/User.js
-application/Viewport.js
-
-utils/utils.js
-ui/control/EMail.js
-ui/control/XML.js
-ui/control/YT.js
-ui/control/Audio.js
